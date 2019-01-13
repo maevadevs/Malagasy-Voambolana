@@ -5,7 +5,7 @@ Fandikana ireo voambolana "mot-clés" amin'ny teny Malagasy
 <table>
   <thead>
     <tr>
-      <th colspan="2">Avy Amin'ny C + Python</th>
+      <th colspan="2">Inspiraka Avy Amin'ny C / Python / Java / JavaScript</th>
     </tr>
     <tr>
       <th>Originale</th>
@@ -18,8 +18,20 @@ Fandikana ireo voambolana "mot-clés" amin'ny teny Malagasy
       <td>tapaho</td>
     </tr>
     <tr>
+      <td>bool</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>byte</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>case</td>
       <td>tranga</td>
+    </tr>
+    <tr>
+      <td>catch</td>
+      <td>sambory</td>
     </tr>
     <tr>
       <td>char</td>
@@ -62,6 +74,10 @@ Fandikana ireo voambolana "mot-clés" amin'ny teny Malagasy
       <td></td>
     </tr>
     <tr>
+      <td>extends</td>
+      <td>manitatra</td>
+    </tr>
+    <tr>
       <td>false</td>
       <td>diso</td>
     </tr>
@@ -86,12 +102,28 @@ Fandikana ireo voambolana "mot-clés" amin'ny teny Malagasy
       <td>raha</td>
     </tr>
     <tr>
+      <td>implements</td>
+      <td>mampiatra</td>
+    </tr>
+    <tr>
+      <td>import</td>
+      <td>ampidiro</td>
+    </tr>
+    <tr>
       <td>in</td>
       <td>aoaminy</td>
     </tr>
     <tr>
+      <td>instanceof</td>
+      <td>kilasiny</td>
+    </tr>
+    <tr>
       <td>int</td>
       <td></td>
+    </tr>
+    <tr>
+      <td>interface</td>
+      <td>mpanelanelana</td>
     </tr>
     <tr>
       <td>is</td>
@@ -99,7 +131,11 @@ Fandikana ireo voambolana "mot-clés" amin'ny teny Malagasy
     </tr>
     <tr>
       <td>long</td>
-      <td>lava</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>new</td>
+      <td>forony</td>
     </tr>
     <tr>
       <td>null</td>
@@ -111,7 +147,7 @@ Fandikana ireo voambolana "mot-clés" amin'ny teny Malagasy
     </tr>
     <tr>
       <td>short</td>
-      <td>fohy</td>
+      <td></td>
     </tr>
     <tr>
       <td>sizeof</td>
@@ -128,6 +164,14 @@ Fandikana ireo voambolana "mot-clés" amin'ny teny Malagasy
     <tr>
       <td>switch</td>
       <td></td>
+    </tr>
+    <tr>
+      <td>this</td>
+      <td>ito</td>
+    </tr>
+    <tr>
+      <td>throw</td>
+      <td>manipy</td>
     </tr>
     <tr>
       <td>true</td>
