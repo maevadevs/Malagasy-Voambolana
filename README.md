@@ -183,7 +183,7 @@ Fandikana ireo voambolana "mot-clés" amin'ny teny Malagasy
     </tr>
     <tr>
       <td>void</td>
-      <td></td>
+      <td>foana</td>
     </tr>
     <tr>
       <td>while</td>
