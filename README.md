@@ -182,6 +182,10 @@ Fandikana ireo voambolana "mot-clés" amin'ny teny Malagasy
       <td>andramo</td>
     </tr>
     <tr>
+      <td>typeof</td>
+      <td>karazany</td>
+    </tr>
+    <tr>
       <td>void</td>
       <td>foana</td>
     </tr>
