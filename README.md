@@ -35,7 +35,7 @@ Fandikana ireo voambolana "mot-clés" amin'ny teny Malagasy
     </tr>
     <tr>
       <td>char</td>
-      <td>litera</td>
+      <td></td>
     </tr>
     <tr>
       <td>class</td>
