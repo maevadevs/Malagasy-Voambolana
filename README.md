@@ -14,10 +14,6 @@ Fandikana ireo voambolana "mot-clés" amin'ny teny Malagasy
   </thead>
   <tbody>
     <tr>
-      <td>auto</td>
-      <td></td>
-    </tr>
-    <tr>
       <td>break</td>
       <td>tapaho</td>
     </tr>
@@ -30,6 +26,10 @@ Fandikana ireo voambolana "mot-clés" amin'ny teny Malagasy
       <td>litera</td>
     </tr>
     <tr>
+      <td>class</td>
+      <td>kilasy</td>
+    </tr>
+    <tr>
       <td>const</td>
       <td></td>
     </tr>
@@ -40,6 +40,10 @@ Fandikana ireo voambolana "mot-clés" amin'ny teny Malagasy
     <tr>
       <td>default</td>
       <td></td>
+    </tr>
+    <tr>
+      <td>del</td>
+      <td>fafao</td>
     </tr>
     <tr>
       <td>do</td>
@@ -58,8 +62,12 @@ Fandikana ireo voambolana "mot-clés" amin'ny teny Malagasy
       <td></td>
     </tr>
     <tr>
-      <td>extern</td>
-      <td>ivelany</td>
+      <td>false</td>
+      <td>diso</td>
+    </tr>
+    <tr>
+      <td>finally</td>
+      <td>farany</td>
     </tr>
     <tr>
       <td>float</td>
@@ -78,15 +86,23 @@ Fandikana ireo voambolana "mot-clés" amin'ny teny Malagasy
       <td>raha</td>
     </tr>
     <tr>
+      <td>in</td>
+      <td>aoaminy</td>
+    </tr>
+    <tr>
       <td>int</td>
       <td></td>
+    </tr>
+    <tr>
+      <td>is</td>
+      <td>dia</td>
     </tr>
     <tr>
       <td>long</td>
       <td>lava</td>
     </tr>
     <tr>
-      <td>register</td>
+      <td>null</td>
       <td></td>
     </tr>
     <tr>
@@ -96,10 +112,6 @@ Fandikana ireo voambolana "mot-clés" amin'ny teny Malagasy
     <tr>
       <td>short</td>
       <td>fohy</td>
-    </tr>
-    <tr>
-      <td>signed</td>
-      <td></td>
     </tr>
     <tr>
       <td>sizeof</td>
@@ -118,28 +130,24 @@ Fandikana ireo voambolana "mot-clés" amin'ny teny Malagasy
       <td></td>
     </tr>
     <tr>
-      <td>typedef</td>
-      <td></td>
+      <td>true</td>
+      <td>marina</td>
     </tr>
     <tr>
-      <td>union</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>unsigned</td>
-      <td></td>
+      <td>try</td>
+      <td>andramo</td>
     </tr>
     <tr>
       <td>void</td>
       <td></td>
     </tr>
     <tr>
-      <td>volatile</td>
-      <td></td>
-    </tr>
-    <tr>
       <td>while</td>
       <td>rahambola</td>
+    </tr>
+    <tr>
+      <td>yield</td>
+      <td>avoay</td>
     </tr>
   </tbody>
 </table>
