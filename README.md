@@ -5,7 +5,7 @@ Fandikana ireo voambolana "mot-clés" amin'ny teny Malagasy
 <table>
   <thead>
     <tr>
-      <th colspan="2">Avy Amin'ny C-Lang</th>
+      <th colspan="2">Avy Amin'ny C + Python</th>
     </tr>
     <tr>
       <th>Originale</th>
