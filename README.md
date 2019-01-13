@@ -155,7 +155,7 @@ Fandikana ireo voambolana "mot-clés" amin'ny teny Malagasy
     </tr>
     <tr>
       <td>static</td>
-      <td></td>
+      <td>tsymiova</td>
     </tr>
     <tr>
       <td>struct</td>
